@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define SIZE 5
+#define SIZE  5
 
 int stack[SIZE];
 int top = -1;
